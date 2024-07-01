@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node index"
+    "start": "node game-bot"
   },
   "author": "",
   "license": "ISC",
